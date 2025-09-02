@@ -2,7 +2,11 @@ MyRencana
 -S1
   SSS
   SSD
+    SSD CF!
+    SSD CF! v2
 -S2v2
 -s2
 -s3
+  S3 CF1
 -s4
+-S5 CF!
